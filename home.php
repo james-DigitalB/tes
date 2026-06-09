@@ -1,6 +1,6 @@
 <?php  include 'header.php'; ?>
   <header id="home" class="hero">
-        <h1 id="heroText">Expert in <br> <span style="color: var(--brand-gold);">Musical</span> <br> Instruments</h1>
+        <h1 id="heroText">Expert In <br> <span style="color: var(--brand-gold);">Musical</span> <br> Instruments</h1>
     </header>
     <section class="visi-misi">
         <div class="box-vm">
